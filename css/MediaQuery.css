@@ -1,0 +1,147 @@
+@media screen and (max-width:850px) {
+    .homesec{
+        background-size: 100% 100%;
+    }
+.navbar .links ul a{
+    font-size: 0.7rem;
+    justify-content: space-around;
+}
+.logo a{
+font-size: 19px;
+}
+h1{
+    font-size: 50px;
+}
+.homecontent p{
+    font-size: 20px;
+}
+.homecontent h3{
+    font-size: 25px;
+}
+.homecontent button{
+    font-size: 15px;
+    padding: 12px 33px;
+}
+/* nehayet sec1 */
+.abouth2{
+    font-size: 4rem;
+}
+.abouth2::before{
+    font-size: 1.5rem;
+    top: 32%;
+    left: 25%;
+}
+
+.abouth2::after{
+    top: 72%;
+right:35%;
+}
+.aboutconten{
+    padding: 0px 100px;
+}
+.aboutph{
+    width: 100%;
+    
+}
+.aboutlink{
+    width: 100%;
+}
+.num{
+    width: 100%;
+   
+}
+/* nehayet sec2 */
+.servh2{
+    font-size: 4rem;
+}
+.servh2::before{
+    font-size: 1.5rem;
+    top: 32%;
+    left: 25%;
+}
+
+.servh2::after{
+    top: 72%;
+right:35%;
+}
+.contchild{
+width: 100%;
+}
+/* nehayet sec 3 */
+.resumeh2{
+    font-size: 4rem;
+}
+.resumeh2::before{
+    font-size: 1.5rem;
+    top: 32%;
+    left: 36%;
+}
+
+.resumeh2::after{
+    top: 72%;
+right:35%;
+}
+.resumecolom1{
+    width: 100%;
+}
+.lines{
+    width: 100%;
+}
+/*  */
+.porth2{
+    font-size: 4rem;
+}
+.porth2::before{
+    font-size: 1.5rem;
+    top: 32%;
+    left: 36%;
+}
+
+.porth2::after{
+    top: 72%;
+right:35%;
+}
+.alla{
+    font-size: 17px;
+}
+/*  */
+.clienth2{
+    font-size: 4rem;
+}
+.clienth2::before{
+    font-size: 1.5rem;
+    top: 32%;
+    left: 32%;
+}
+
+.clienth2::after{
+    top: 72%;
+right:39%;
+}
+.childclient{
+    width: 95%;
+}
+/*  */
+.contacth2{
+    font-size: 4rem;
+}
+.contacth2::before{
+    font-size: 1.5rem;
+    top: 32%;
+    left: 26%;
+}
+
+.contacth2::after{
+    top: 72%;
+right:33%;
+}
+.contactinfo{
+    width: 100%;
+}
+.contactForm{
+    width: 100%;
+}
+.lastbuton{
+    margin:7% 25% 0;
+}
+}
